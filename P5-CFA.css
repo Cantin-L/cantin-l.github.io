@@ -228,7 +228,13 @@
     background-position: 50% 50%;
     animation-duration: 1000ms;
   }
-  
+
+  .u-section-2 .u-image-2 {
+    min-height: 582px;
+    background-image: url("https://Cantin-L.github.io/assurmer.png");
+    background-position: 50% 50%;
+    animation-duration: 1000ms;
+  }  
   .u-section-2 .u-container-layout-2 {
     padding: 30px;
   }
